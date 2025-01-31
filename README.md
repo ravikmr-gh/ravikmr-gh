@@ -1,6 +1,6 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEgxedako3AKCzuiYFsIzMp1iFRdnWlWPnHh9Od7C_T1qBXCFXZZzaEv8Hc7SJognYK6vkzaIqBFRsD7L-nHLS51oeYO9IJ9NsHDzsqwLcXZZy-rLnkgt90aYqOUiuvBUI8r9ELOTB7NElbDfPZV-cJ4CiqmPMksqKBldR25DONGO44O41FXD2jdj7oay6s)
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
-<h3 align="center">Developere</h3>
+<h3 align="center">Developer &diams;</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikmr-gh&label=Profile%20views&color=0e75b6&style=flat" alt="ravikmr-gh" /> </p>
