@@ -1,3 +1,15 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gh-ravikmr.gh-ravikmr" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravi+Kumar!;" />
+</h1>
+
+<h3 align="center">A Software Developer from India </h3>
+
+<br/>
+
+<div align="center">
+
 # 💫 About Me:
 🔭 I’m currently working on JavaScript, React and more on<br><br>💬 Ask me about MERN, Python and things you like<br><br>📫 How to reach me ytravi1020120@gmail.com<br><br>⚡ Fun fact I love Dodge Challenger
 
